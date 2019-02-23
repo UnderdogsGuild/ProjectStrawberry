@@ -1,4 +1,4 @@
-
+package com.underdogsguild.strawberry;
 
 public class Bot {
 
